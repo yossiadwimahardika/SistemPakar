@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580127634856",
+    "project_id": "sispak-project-65b96",
+    "storage_bucket": "sispak-project-65b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580127634856:android:cfebb287751d6bcf28999d",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.fti.sispak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580127634856-hdp2ampd59qtieh1c4nqvfalnh7au0g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhmCtwTcAXJBywU9njQHjidOyg1rGVyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580127634856-hdp2ampd59qtieh1c4nqvfalnh7au0g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
